@@ -1,1 +1,1 @@
-# Number-Guessing-Game
+This is a simple android game that takes a random number between 1 and 25, and whatever number you guess, it tells you if the number it has is higher or lower until you get the correct answer; the game then restarts. Developed using Java.
